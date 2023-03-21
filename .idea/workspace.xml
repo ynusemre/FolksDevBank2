@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfcc1181-c9e1-4301-a072-3aafd055cf30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Optional/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Optional/PhoneBookCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/FlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/GroupBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Joining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/LetterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/MaxAndComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/PartitionBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/SumAndReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/UnderAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream/UpperCase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LdQXMFM9SIsJtAG9XdbFZX7J9P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.PhoneBookCrawler">
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.ForEach" />
+      <module name="JavaStreamAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Optional.PhoneBookCrawler" />
+      <module name="JavaStreamAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PhoneBookCrawler" />
+        <item itemvalue="Application.ForEach" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfcc1181-c9e1-4301-a072-3aafd055cf30" name="Changes" comment="" />
+      <created>1676198520630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676198520630</updated>
+      <workItem from="1679422077080" duration="993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
